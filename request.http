@@ -1,0 +1,11 @@
+###
+POST http://localhost:3000/
+content-type: application/json
+
+{
+  "data": {
+    "limit": 1,
+    "message": "no way jose",
+    "status": 430
+  }
+}

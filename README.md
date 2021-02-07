@@ -1,0 +1,4 @@
+- npm i
+- use request.http to send the request, you'll need the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) plugin for this
+- node works.js -- limit works
+- node why.js -- why? :P
